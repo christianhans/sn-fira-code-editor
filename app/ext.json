@@ -1,8 +1,8 @@
 {
-    "identifier": "org.yourdomain.my-extension",
-    "name": "Blank Slate",
+    "identifier": "io.github.christianhans.sn-fira-code-editor",
+    "name": "Fira Code Editor",
     "content_type": "SN|Component",
-    "area": "editor-stack",
-    "version": "1.0.0",
+    "area": "editor-editor",
+    "version": "0.0.1",
     "url": "http://localhost:8080"
 }
