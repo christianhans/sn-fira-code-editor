@@ -1,10 +1,13 @@
 {
   "name": "sn-fira-code-editor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/dist.js",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server --devtool eval --progress --hot --content-base app"
+  },
+  "sn": {
+    "main": "dist/index.html"
   },
   "dependencies": {},
   "devDependencies": {
