@@ -11,7 +11,7 @@ body, html {
   background-color: var(--sn-stylekit-editor-background-color);
   color: var(--sn-stylekit-editor-foreground-color);
   font-size: 13px !important;
-  font-family: "Fira Code Retina", "Fira Code" !important;    
+  font-family: "Fira Code Retina", "Fira Code", "Menlo", 'Courier New', Courier, monospace !important;    
   -webkit-overflow-scrolling: touch;
   height: 100% !important;
   width: 100% !important;

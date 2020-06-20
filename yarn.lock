@@ -7410,10 +7410,10 @@ slide@^1.1.5:
   resolved "https://registry.yarnpkg.com/slide/-/slide-1.1.6.tgz#56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
   integrity sha1-VusCfWW00tzmyy4tMsTUr8nh1wc=
 
-sn-components-api@1.1.8:
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/sn-components-api/-/sn-components-api-1.1.8.tgz#62ac4c227532fbd78e1a4e54f1e0a94c14135133"
-  integrity sha512-yiwwrsg77eqbBLSLoRO2LZmtHetQ5rt0/W8kl0aIkGQqf9FsJ1ZXYKmSr0Q6//DXmVily+8tNNycbZeZ7FHjrA==
+sn-components-api@1.2.8:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/sn-components-api/-/sn-components-api-1.2.8.tgz#5fbba6652c08d5b3e92502d782453c1520165721"
+  integrity sha512-epBFsQIKLK78SnJ6e5JNjYbdOAYbKzRyydjpAqji0WdX3S/tOD5Z3UVdLVyi4orKaM4322dk6nRJiTHMI1VyIw==
 
 sn-stylekit@2.0.20:
   version "2.0.20"

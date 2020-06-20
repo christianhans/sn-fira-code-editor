@@ -1,6 +1,6 @@
 {
   "name": "sn-fira-code-editor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/dist.js",
   "scripts": {
     "build": "webpack",
@@ -24,7 +24,7 @@
     "react": "15.x",
     "react-dom": "15.x",
     "sass-loader": "^6.0.6",
-    "sn-components-api": "1.1.8",
+    "sn-components-api": "1.2.8",
     "sn-stylekit": "2.0.20",
     "style-loader": "~0.13.1",
     "webpack": "3.8.1",

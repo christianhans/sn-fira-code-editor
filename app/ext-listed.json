@@ -1,0 +1,16 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.christianhans.sn-fira-code-editor",
+  "name": "Fira Code Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "0.0.2",
+  "description": "Simple Editor using the Fira Code font with Ligatures support.",
+  "url": "https://christianhans.github.io/sn-fira-code-editor/dist/index.html",
+   "download_url": "https://github.com/christianhans/sn-fira-code-editor/archive/0.0.2.zip",
+  "latest_url": "https://listed.to/VLU9bfzvaD",
+  "marketing_url": "https://github.com/christianhans/sn-fira-code-editor"
+}
